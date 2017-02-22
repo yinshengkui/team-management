@@ -4,6 +4,7 @@
 
 1. [良好的研发团队文化是怎样养成的？](docs/good_team_culture_formation.md) 张辉清，中青易游CTO，曾就职于携程架构、古大集团，在古大集团任首席架构师和高级技术总监。现阶段关注技术与业务的融合、工程效率和团队管理。
 2. [从普通程序员到三百人团队CTO，技术人成长的易与不易](docs/techman_grow.md) 崔玉松，有赞联合创始人、CTO。前阿里巴巴技术专家，资深码农。
+3. [微服务，容器和运维：猜猜现在谁来担责](docs/microservice_who_take_charge.md)  作者：不详 翻译：孙科
 
 ## About
 
